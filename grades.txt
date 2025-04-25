@@ -1,0 +1,5 @@
+Franklin 47 70 82 73 50 x
+Jones 77 82 83 50 10 done
+Harris 97 90 92 95 100 .
+Smith 87 92 93 60 0 ;
+Carpenter 47 90 92 73 100 exit
