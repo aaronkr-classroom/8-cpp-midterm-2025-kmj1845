@@ -1,4 +1,4 @@
-# 📄 중간고사 실기 시험 – 오픈북 (30분)
+# 📄 중간고사 실기 시험 – 오픈북 (30분쯤)
 
 ## 🧠 목표:
 
@@ -54,6 +54,27 @@
 과제 점수를 입력하세요 (숫자가 아닌 값을 입력하면 종료): 70 75 60 65 80 x
 
 --- 성적 요약 (이름 순 정렬) ---
+
+Alice: 90.0
+Bob: 70.0
+```
+
+터미널 창에 한국어가 제대로 표시되지 않으면 영어를 사용할 수 있습니다.
+
+영문 예시: 
+
+```bash
+Enter the number of students: 2
+
+== Student 1 ==
+Enter the name: Alice
+Enter the assignment score (exit if non-numeric): 90 85 100 95 80 done
+
+== Student 2 ==
+Enter the name: Bob
+Enter the assignment score (exit if non-numeric): 70 75 60 65 80 x
+
+--- Grade Summary (sorted by name) ---
 
 Alice: 90.0
 Bob: 70.0
